@@ -28,6 +28,15 @@ p {
   font-family: 'Indie Flower', cursive;
 }
 
+a {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  margin-top: 20px;
+  text-decoration: none;
+}
+
 img {
   width: 80%;
 }
